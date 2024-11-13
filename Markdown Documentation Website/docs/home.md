@@ -13,5 +13,5 @@ InfoHub Tech Tutorials is a comprehensive platform designed to help users master
 - [Set Up](topic-one.md)
 - [Organising Content](topic-two.md)
 - [Version Control With Git](topic-three-overview.md)
-<!-- - [Subtopic One](topic-three-subtopic-one.md)
-- [Subtopic Two](topic-three-subtopic-two.md) -->
+- [Deploying Your Site](topic-three-subtopic-one.md)
+<!-- - [Subtopic Two](topic-three-subtopic-two.md) --> -->
