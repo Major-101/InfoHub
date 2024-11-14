@@ -4,7 +4,7 @@
 <!-- - Topic Three -->
 - [Version Control with Git](topic-three-overview.md "Overview Chapter 3")
 - [Deploying Your Site](topic-three-subtopic-one.md "Topic Three, Subtopic One")
-<!-- - [Subtopic Two](topic-three-subtopic-two.md "Topic Three, Subtopic Two") -->
+- [Maintaining Documentation](topic-three-subtopic-two.md "Topic Three, Subtopic Two")
 
 **PROJECT INFO**  
 <!-- * [GitHub Repository](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/)   -->
